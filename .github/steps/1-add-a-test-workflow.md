@@ -8,7 +8,7 @@
 
 ## Step 1: Add a test workflow
 
-_Welcome to "GitHub Actions: Continuous Integration"! :wave:_
+Welcome to "GitHub Actions: Continuous Integration"! :wave:
 
 **What is _continuous integration_?**: [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) can help you stick to your team’s quality standards by running tests and reporting the results on GitHub. CI tools run builds and tests, triggered by commits. The quality results post back to GitHub in the pull request. The goal is fewer issues in `main` and faster feedback as you work.
 
@@ -21,7 +21,7 @@ _Welcome to "GitHub Actions: Continuous Integration"! :wave:_
 
 To learn more, check out [Workflow syntax for GitHub Actions](https://docs.github.com/actions/using-workflows/workflow-syntax-for-github-actions) in the GitHub Docs.
 
-First, let's add a workflow to *lint* (clean, like a lint roller) our Markdown files in this repository. This workflow has a deliberate error in it ("npx" should be "npm"), which we'll debug in the next unit.
+First, let's add a workflow to _lint_ (clean, like a lint roller) our Markdown files in this repository. This workflow has a deliberate error in it ("npx" should be "npm"), which we'll debug in the next unit.
 
 ### :keyboard: Activity: Add a test workflow
 
