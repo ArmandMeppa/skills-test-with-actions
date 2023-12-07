@@ -6,7 +6,7 @@
 
 ## Step 5: Merge your pull request
 
-_Almost there! :heart:_
+Almost there! :heart:
 
 You can now [merge](https://docs.github.com/get-started/quickstart/github-glossary#merge) your pull request!
 
